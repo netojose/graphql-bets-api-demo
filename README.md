@@ -41,7 +41,7 @@ Creating a productin bundle, you're transpiling typescript to javascript, doing 
 -   [typedi](https://github.com/typestack/typedi)
     -   Simple yet powerful dependency injection tool for JavaScript and TypeScript.
 -   [ESLint](https://eslint.org/)
-    -ESLint is a static code analysis tool for identifying problematic patterns found in JavaScript code.
+    -   ESLint is a static code analysis tool for identifying problematic patterns found in JavaScript code.
 -   [prettier](https://prettier.io/)
     -   An opinionated code formatter
 -   [ts-node-dev](https://www.npmjs.com/package/ts-node-dev)
